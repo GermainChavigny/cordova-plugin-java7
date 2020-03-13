@@ -8,8 +8,8 @@
     <description>
         This plugin attempts to convince Cordova to compile against Java 7 instead of Java 5 on Java platforms
     </description>
-    <repo>https://github.com/cvuser0/cordova-plugin-java7.git</repo>
-    <issue>https://github.com/cvuser0/cordova-plugin-java7/issues</issue>
+    <repo>https://github.com/GermainChavigny/cordova-plugin-java7.git</repo>
+    <issue>https://github.com/GermainChavigny/cordova-plugin-java7/issues</issue>
     <license>MIT</license>
     <keywords>cordova, java 7</keywords>
     <platform name="android">
